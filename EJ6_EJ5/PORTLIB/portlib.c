@@ -24,6 +24,7 @@ se retorna el puntero nulo*/
 		case 'B':
 		case 'b':
 			preg = &(puerto.registro.b);
+			break;						   
 		case 'D':
 		case 'd':
 			preg = &(puerto.d);
